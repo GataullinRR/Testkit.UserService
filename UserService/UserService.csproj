@@ -27,10 +27,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PresentationService.API\PresentationService.API.csproj" />
     <ProjectReference Include="..\Testkit.Common\Testkit.Common\Testkit.Common.csproj" />
-    <ProjectReference Include="..\UserDb\UserService.Db.csproj" />
     <ProjectReference Include="..\UserService.API\UserService.API.csproj" />
+    <ProjectReference Include="..\UserService.Db\UserService.Db.csproj" />
   </ItemGroup>
 
 </Project>
