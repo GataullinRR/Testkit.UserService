@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Testkit.Common\Testkit.Common\Testkit.Common.csproj" />
+    <ProjectReference Include="..\..\Testkit.Common\Testkit.Common\Testkit.Common.csproj" />
   </ItemGroup>
 
 </Project>
